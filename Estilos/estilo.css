@@ -1,0 +1,142 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+  }
+
+
+#container-central-panel {
+  padding: 20px;
+  min-height: 100vh;
+  background-image: url('../img/fondo.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+}
+
+#container-central-panel {
+  background-color: #f8f9fa;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+/* Estilos del contenedor lateral */
+#container-aside-panel {
+  background-color: #9e88b2;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+#container-aside-panel button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: #310467;
+  color: #ffffff;
+  border: none;
+  border-radius: 30px; /* Forma de píldora */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 18px; /* Tamaño de fuente más grande */
+  padding: 12px 24px; /* Relleno más amplio */
+}
+
+#container-aside-panel button:hover {
+  background-color: #7013ed; /* Cambio de color al pasar el cursor */
+}
+
+#container-central-formulario-ticker {
+  padding: 20px;
+  min-height: calc(100vh - 100px); 
+}
+
+#container-central-formulario-ticker form {
+  margin-top: 20px;
+}
+
+#container-central-graf-torta {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  min-height: calc(100vh - 100px); /* Mantener espacio suficiente para el footer */
+}
+
+#container-central-car-exitosa
+ {
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  min-height: calc(100vh - 100px); /* Restar el tamaño del pie de página */
+}
+
+.scrollable-table {
+  overflow-y: auto;
+  max-height: 500px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  word-break: break-all;
+}
+th {
+  background-color: #310467;
+  color: white;
+}
+
+#container-central-areas {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+#container-central-areas form {
+  width: 100%;
+  max-width: 700px;
+}
+
+select,
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+select,
+        input[type="email"],
+        input[type="tel"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+body {
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

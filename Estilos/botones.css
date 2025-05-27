@@ -1,0 +1,48 @@
+.btn-azul {
+    background-color: #1f8ee9; /* Cambio de color */
+    color: #ffffff;
+    border: none;
+    border-radius: 30px; /* Forma de píldora */
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transición de color */
+    font-size: 18px; /* Tamaño de fuente más grande */
+    padding: 12px 24px; /* Relleno más amplio */
+}
+
+.btn-azul:hover {
+    background-color: #17a2b8; /* Cambio de color en hover */
+}
+
+.btn-morado {
+    background-color: #310467;
+    color: #ffffff;
+    border: none;
+    border-radius: 30px; /* Forma de píldora */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 18px; /* Tamaño de fuente más grande */
+    padding: 12px 24px; /* Relleno más amplio */
+}
+
+.btn-morado:hover {
+    background-color: #7013ed;
+}
+
+.btn-ancho {
+    width: 100%;
+}
+
+.btn-rojo {
+    background-color: #b10303; /* Cambio de color */
+    color: #ffffff;
+    border: none;
+    border-radius: 30px; /* Forma de píldora */
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transición de color */
+    font-size: 18px; /* Tamaño de fuente más grande */
+    padding: 12px 24px; /* Relleno más amplio */
+}
+
+.btn-rojo:hover {
+    background-color: rgb(216, 1, 1); /* Cambio de color en hover */
+}

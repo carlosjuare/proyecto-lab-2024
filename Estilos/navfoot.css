@@ -1,0 +1,34 @@
+.navbar {
+    background-color: #310467;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.navbar img {
+    height: 40px;
+    margin-left: 20px;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #310467;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.content {
+    margin-bottom: 100px; /* Ajusta este valor según sea necesario para evitar la superposición */
+}
+
+.contento {
+    margin-bottom: 50px; /* Ajusta este valor según sea necesario para evitar la superposición */
+}
+
+.spacer {
+    flex-grow: 1;
+}
