@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Iniciar Sesión</title>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="../Estilos/botones.css" />
+    <link rel="stylesheet" href="../Estilos/navfoot.css" />
+    <link rel="stylesheet" href="../Estilos/estilo.css" />
+  </head>
+
+  <body>
+    <nav
+      class="navbar navbar-expand-lg navbar-light"
+      style="background-color: #310467"
+    >
+      <div class="container">
+        <!-- Texto del logo que dirige a otro archivo HTML -->
+        <a class="navbar-brand" href="#">
+          <img
+            src="../img/Okaro_White.png"
+            alt="Logo"
+            class="img-fluid"
+            height="100%"
+            width="100%"
+          />
+        </a>
+      </div>
+    </nav>
+
+    <div class="container mt-5 content">
+      <h2 class="mb-4">Iniciar Sesión</h2>
+
+      <form action="./login.php" method="POST">
+        <div class="form-group">
+          <label for="email_usuario">Email del usuario:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="email_usuario"
+            name="email_usuario"
+            required
+          />
+        </div>
+        <div class="form-group">
+          <label for="clave_usuario">Clave:</label>
+          <input
+            type="text"
+            class="form-control"
+            id="clave_usuario"
+            name="clave_usuario"
+            required
+          />
+        </div>
+
+        <button type="submit" class="btn-azul">Iniciar Sesión</button>
+        <a href="../NewUser/newuser2.php" class="btn-morado">Crear Cuenta</a>
+        <a href="../Login/clima.php" class="btn-azul">Ver clima</a>
+      </form>
+    </div>
+
+    <div class="spacer"></div>
+
+    <footer>
+      <p>Derechos Reservados ©</p>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  </body>
+</html>

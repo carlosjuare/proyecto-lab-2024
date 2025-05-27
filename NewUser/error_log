@@ -1,0 +1,114 @@
+[04-Apr-2024 23:42:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[04-Apr-2024 23:42:46 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[04-Apr-2024 23:42:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[04-Apr-2024 23:42:54 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[04-Apr-2024 23:43:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[04-Apr-2024 23:43:01 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:21:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:21:26 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:26:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:26:08 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:26:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:26:11 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:26:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:26:24 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:28:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:28:11 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:28:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:28:14 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:28:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:28:31 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Invalid argument in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[08-Apr-2024 19:30:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'okaro_admin'@'localhost' to database 'okaro_admin' in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[08-Apr-2024 19:30:06 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'okaro_admin'@'localhost' to database 'okaro_admin' in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:09:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:09:03 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:09:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:09:24 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:11:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:11:48 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:11:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:11:51 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:12:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:12:26 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[25-May-2024 22:16:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[25-May-2024 22:16:17 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[15-Aug-2024 19:18:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[15-Aug-2024 19:18:49 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[15-Aug-2024 20:51:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[15-Aug-2024 20:51:39 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/NewUser/newuser2.php(2): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26

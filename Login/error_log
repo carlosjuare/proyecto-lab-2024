@@ -1,0 +1,87 @@
+[19-Feb-2024 00:10:20 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:10:20 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:10:20 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:10:33 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:10:33 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:10:33 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:10:55 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:10:55 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:10:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:11:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:11:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:11:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:11:23 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:11:23 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:11:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:13:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:13:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:13:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:14:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:14:05 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:14:05 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:14:53 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:14:53 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:14:53 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:14:58 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:14:58 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:14:58 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:03 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:03 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:03 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:07 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:07 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:07 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:10 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:10 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:15 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:15 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:42 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:42 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:42 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:45 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:45 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:48 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:48 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:15:55 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:15:55 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:15:55 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:16:03 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:16:03 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:16:03 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[19-Feb-2024 00:16:19 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/Login/login.php on line 117
+[19-Feb-2024 00:16:19 America/New_York] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/okaro/public_html/Final-Lab2/DataBaseConexion/db.php on line 7
+[19-Feb-2024 00:16:19 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/okaro/public_html/Final-Lab2/Login/login.php:1) in /home/okaro/public_html/Final-Lab2/Login/login.php on line 144
+[10-Apr-2024 19:09:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:09:18 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/Login/login.php(3): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:11:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:11:35 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/Login/login.php(3): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:11:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:11:41 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/Login/login.php(3): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[10-Apr-2024 19:12:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[10-Apr-2024 19:12:22 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'iSSC0nf3d3r4t3'@'localhost' (using password: YES) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/Login/login.php(3): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
+[15-Aug-2024 19:18:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 22
+[15-Aug-2024 19:18:45 UTC] PHP Fatal error:  Uncaught Exception: Error de conexión a MySQL: Access denied for user 'root'@'localhost' (using password: NO) in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php:26
+Stack trace:
+#0 /home2/okaro/public_html/Lab3Okaro/Login/login.php(3): include()
+#1 {main}
+  thrown in /home2/okaro/public_html/Lab3Okaro/DataBaseConexion/db.php on line 26
